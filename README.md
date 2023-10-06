@@ -67,7 +67,7 @@ Esta aplicação, construída na plataforma Power da Microsoft e desenvolvida co
 
 -   Connect > Insert auto generated id to Excel table > Connect
 
-##Autores:
+ ##Autores:
 - Bárbara Chiari Começanha Silva
 - Giovana Gama de Carvalho
 - Marcos Buonaduce Parrotto
@@ -75,5 +75,3 @@ Esta aplicação, construída na plataforma Power da Microsoft e desenvolvida co
 - Rafaela Loiola de Oliveira
 
 
-
-Pedro Henrique Souza Andilossi
